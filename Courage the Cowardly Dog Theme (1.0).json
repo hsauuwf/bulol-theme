@@ -309,7 +309,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "data:image/jpeg;base64",
+    "url": "https://github.com/hsauuwf/bulol-theme/blob/0743b47123b32eddf105feaeec5e8271bfd88d1f/38b6410de021f55e55a565aec4cabf9f.jpg",
     "alpha": 0.4,
     "size": "cover",
     "position": "center"
